@@ -47,7 +47,3 @@ Each problem demonstrates the use of **built-in methods** with clear instruction
 3. Union and Intersection  
 4. Difference and Symmetric Difference  
 5. Copy and Clear
-
-
-
-.com/your-username/python-ds-problems.git
