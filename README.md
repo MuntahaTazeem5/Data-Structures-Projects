@@ -1,49 +1,40 @@
-# Python Data Structures Practice 🚀
+# Python Data Structures Basic Practice 🚀
 
-This repository contains **21 Python practice problems** based on **Lists, Dictionaries, Tuples, and Sets**.  
-Each problem demonstrates the use of **built-in methods** with clear instructions and examples.
+# 🐍 Python Data Structures – Real Life Problem Statements  
 
----
+This repository contains **real-life problems solved using Python built-in data structures**:  
+- **Lists**  
+- **Dictionaries**  
+- **Tuples**  
+- **Sets**  
 
-## 📂 Structure
-
-- **Lists** → 5 problems  
-- **Dictionaries** → 5 problems  
-- **Tuples** → 5 problems  
-- **Sets** → 5 problems  
+Each problem uses **built-in methods** with clear descriptions and instructions.
 
 ---
 
-## 🔹 Lists
-1. Append and Insert  
-2. Remove and Pop  
-3. Count Occurrences  
-4. Sort and Reverse  
-5. Copy and Clear  
+## 📂 Contents
+
+### 🔹 Lists
+1. Grocery Shopping List (`append`, `insert`, `remove`, `pop`, `clear`)  
+2. Student Marks Analysis (`count`, `index`, `sort`, `reverse`, `copy`)  
+
+### 🔹 Dictionaries
+3. Contact Book (`get`, `update`, `pop`, `popitem`, `clear`)  
+4. Product Prices (`keys`, `values`, `items`, `setdefault`, `copy`)  
+
+### 🔹 Tuples
+5. Student Record (`count`, `index`, `unpack`, `+`, `*`)   
+
+### 🔹 Sets
+6. Unique Visitors (`add`, `remove`, `discard`, `copy`, `clear`)  
+7. Sports Teams Analysis (`union`, `intersection`, `difference`, `symmetric_difference`)  
 
 ---
 
-## 🔹 Dictionaries
-1. Get with Default  
-2. Update Dictionary  
-3. Remove with Pop and Popitem  
-4. Keys, Values, Items  
-5. Setdefault  
+## 🚀 How to Run
+Clone this repository and run any file with Python:
 
----
-
-## 🔹 Tuples
-1. Count Occurrences  
-2. Find Index  
-3. Concatenate Tuples  
-4. Repeat Tuple  
-5. Unpack Tuple  
-
----
-
-## 🔹 Sets
-1. Add Elements  
-2. Remove vs Discard  
-3. Union and Intersection  
-4. Difference and Symmetric Difference  
-5. Copy and Clear
+```bash
+git clone https://github.com/MuntahaTazeem5/python-ds-real-life.git
+cd python-ds-real-life
+python list_problems.py
